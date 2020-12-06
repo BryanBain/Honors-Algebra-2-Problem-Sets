@@ -17,12 +17,14 @@ PSets for Honors Algebra 2
   <li>Transforming Functions</li>
   <li>Domain and Range</li>
   <li>Inverse Functions</li>
-  <li>Matrix Algebra</li>
-  <li>Systems of Equations</li>
+  <li>Vectors and Matrices: Adding, Subtracting, and Scalar Multiplication</li>
+  <li>Matrix Multiplication</li>
+  <li>2 X 2 Systems of Equations</li>
+  <li>3 X 3 Systems of Equations</li>
   <li>Simplifying Radical Expression</li>
   <li>Radical Equations and Ineqaulities</li>
-  <li>Complex Fractions</li>
   <li>Adding and Subtracting Rational Expressions</li>
+  <li>Complex Fractions</li>
   <li>Rational Equations and Inequalities</li>
   <li>Parabolas</li>
   <li>Circles</li>
